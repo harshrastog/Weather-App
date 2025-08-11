@@ -36,7 +36,7 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repository:
 ```sh
- git clone https://github.com/kaushalsahu07/weather.git
+ git clone https://github.com/harshrastog/weather.git
 ```
 2. Navigate to the project directory:
 ```sh 
@@ -51,5 +51,6 @@ let apiKey = "Your API Key";
 ### Usage
 
 To use the Weather App, simply enter the name of the city in the search bar and press enter. The app will display the current weather conditions, including temperature, humidity, wind speed, and more.
+
 
 
